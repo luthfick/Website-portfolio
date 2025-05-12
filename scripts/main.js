@@ -1,5 +1,5 @@
 /* toggle */
-const navslide=()=>{
+const navSlide=()=>{
     const burger= document.querySelector(".burger");
     const navList= document.querySelector("nav");
 
@@ -9,7 +9,7 @@ const navslide=()=>{
     });
 };
 
-navslide();
+navSlide();
 
 // clear form before unload
 
