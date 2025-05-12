@@ -154,6 +154,7 @@ nav ul li a{
     margin: 7px;
     transition: all .3s;
     z-index: 99;
+    cursor: pointer;
 }
 
 .burger{
